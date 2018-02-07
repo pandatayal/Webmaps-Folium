@@ -12,3 +12,4 @@ This project involves -
 - Adding a Layer Control Panel to the map.
 
 
+<img width="1197" alt="screen shot 2018-02-08 at 5 15 14 am" src="https://user-images.githubusercontent.com/15065529/35947865-ddb1ba3a-0c8f-11e8-925c-33b6bdda9500.png">
